@@ -105,13 +105,13 @@ nav img {
   padding: 1rem;
   font-size: 1.5rem;
   text-decoration: none;
-  background-color: aquamarine;
-  color: #f9004d;
+  background-color: rgb(255, 0, 106);
+  color: wheat;
   border-radius: 2rem;
   transition: 0.3s ease-in-out;
 }
 .content .hero-explore:hover {
-  background-color: #f9004d;
+  background-color: rgb(0, 255, 42);
   color: aqua;
 }
 
@@ -128,8 +128,8 @@ nav img {
 }
 
 .hero-btn:hover {
-  border: #060694;
-  background: #060694;
+  border: red;
+  background: green;
   transition: 0.4s;
 }
 
